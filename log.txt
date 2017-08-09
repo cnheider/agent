@@ -430,3 +430,355 @@ DEBUG:neodroid.neodroid_environment:Step
 DEBUG:neodroid.neodroid_environment:Step
 DEBUG:neodroid.neodroid_environment:Step
 DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Close
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Initializing Environment
+DEBUG:neodroid.neodroid_environment:Connecting to server
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
+DEBUG:neodroid.neodroid_environment:Step
